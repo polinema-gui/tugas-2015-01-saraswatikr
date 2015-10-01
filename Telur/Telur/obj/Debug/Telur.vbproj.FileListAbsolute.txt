@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2012\Projects\Telur\Telur\bin\Debug\Telur.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Telur\Telur\bin\Debug\Telur.exe
+c:\users\user\documents\visual studio 2012\Projects\Telur\Telur\bin\Debug\Telur.pdb
+c:\users\user\documents\visual studio 2012\Projects\Telur\Telur\bin\Debug\Telur.xml
+c:\users\user\documents\visual studio 2012\Projects\Telur\Telur\obj\Debug\Telur.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\Telur\Telur\obj\Debug\Telur.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Telur\Telur\obj\Debug\Telur.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Telur\Telur\obj\Debug\Telur.exe
+c:\users\user\documents\visual studio 2012\Projects\Telur\Telur\obj\Debug\Telur.xml
+c:\users\user\documents\visual studio 2012\Projects\Telur\Telur\obj\Debug\Telur.pdb
